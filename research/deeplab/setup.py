@@ -12,5 +12,5 @@ setup(
         'pillow',
         'jupyter',
         'matplotlib',
-        'slim@git+https://github.com/autognc/models#subdirectory=research/slim'
+        'slim@git+https://github.com/autognc/models#egg=slim&subdirectory=research/slim'
     ])
