@@ -14,5 +14,6 @@ setup(
         'pillow',
         'lxml',
         'jupyter',
-        'matplotlib'
+        'matplotlib',
+        'slim@git+https://github.com/autognc/models#subdirectory=research/slim'
     ])
